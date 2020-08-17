@@ -1,0 +1,12 @@
+1)DAta analysis
+	1.1)Data cleaning-remove unwanted column which doesnt affect dataset
+
+	1.2)Adding column after taking only important features 
+2)Data preprocessing--------------------------
+2.1) convertn categoriacal feature using onehotencoding method
+============================================================================
+3)train and test split
+4)use model and do hyperparaeter tunning
+5)and check for MSE,MAE,RMSE of the model abd which is low choose the one 
+6)handle outlier using transform
+7)make a pickel file and deploye it
